@@ -1,0 +1,7 @@
+[submodule "third_party/skia"]
+	path = third_party/skia
+	url = https://chromium.googlesource.com/skia.git
+	branch = 19b0420e877d3e27d5315d8a539e671cf2b479eb
+[submodule "mojo"]
+	path = mojo
+	url = https://github.com/Tarnyko/chromium-mojo
